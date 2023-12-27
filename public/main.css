@@ -5,7 +5,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Inconsolata', monospace;
-    overflow: hidden;
 }
 
 body {
@@ -24,6 +23,7 @@ body {
 
 #alt-txt {
     color: #495057;
+    letter-spacing: .5px;
 }
 
 .skills li {
