@@ -17,6 +17,12 @@ body {
     font-size: 2rem;
 }
 
+.footer {
+    padding: 20px;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
 .cursor {
   color: black;
 }
@@ -27,12 +33,6 @@ body {
     white-space: nowrap;
     overflow: hidden;
     border-right: 18px solid black;
-}
-
-.footer {
-    padding: 20px;
-    font-size: 1.25rem;
-    text-align: center;
 }
 
 @keyframes blink {
