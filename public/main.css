@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: #f2e9e4;
+    background-color: #d6ccc2;
     color: black;
 }
 
@@ -27,6 +27,13 @@ body {
     margin-right: 10px;
 }
 
+.outline-block {
+    border: 2px solid black;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
 .footer {
     padding: 20px;
     font-size: 1.25rem;
@@ -38,7 +45,7 @@ body {
 }
 
 .cursorBlink {
-    width: 30ch;
+    width: 28ch;
     animation: blink .5s step-end infinite alternate;
     white-space: nowrap;
     overflow: hidden;
