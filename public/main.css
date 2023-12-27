@@ -17,6 +17,11 @@ body {
     font-size: 2rem;
 }
 
+.skills li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
 .footer {
     padding: 20px;
     font-size: 1.25rem;
