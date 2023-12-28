@@ -21,6 +21,11 @@ body {
     font-size: 2rem;
 }
 
+.icons, a {
+    color: black;
+    font-size: 24px;
+}
+
 #alt-txt {
     color: #495057;
     letter-spacing: .5px;
